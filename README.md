@@ -50,9 +50,9 @@ Here’s an example from a test image:
 This project demonstrates an adaptive and secure way to embed sensitive medical data into diagnostic images without compromising visual quality. The method is simple, effective, and optimized for healthcare image workflows.
 ## Usage Example:
 
-[Original Image](original_mri.png)  
-[Stego Image](stego_mri.png)  
-[Extracted Message Screenshot](extracted_message.png)
+[Original Image](Original_Image.png)  
+[Stego Image](Stego_Image.png)  
+[Extracted Message Screenshot](Extracted_Message.png)
 
 > [!NOTE]
 > If you're running this in Google Colab, upload a sample grayscale MRI image and the message file before execution.
